@@ -42,6 +42,8 @@ Veri seti yaklaşık 54.000 elmas ve 10 özellik içermektedir:
 
 
 📈 Results / Sonuçlar
+
+
 The model performance was evaluated using MAE, MSE, and R² Score. Grid search helped significantly in reducing the error margins by finding the optimal SVR parameters.
 
 Model performansı MAE, MSE ve R² Skoru kullanılarak değerlendirilmiştir. Grid search, optimum SVR parametrelerini bularak hata paylarının azaltılmasında önemli rol oynamıştır.
