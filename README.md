@@ -40,13 +40,6 @@ Veri seti yaklaşık 54.000 elmas ve 10 özellik içermektedir:
 
 ---
 
-## 🛠️ Requirements / Gereksinimler
-
-To run this notebook, you need the following libraries:
-Bu projeyi çalıştırmak için aşağıdaki kütüphanelere ihtiyacınız vardır:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
 
 📈 Results / Sonuçlar
 The model performance was evaluated using MAE, MSE, and R² Score. Grid search helped significantly in reducing the error margins by finding the optimal SVR parameters.
